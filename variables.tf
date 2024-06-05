@@ -1,5 +1,9 @@
-variable bucket_name {
-  type        = string
-  default     = "aadil-static-webiste-bucket"
-  description = "Website bucket name"
+variable "aws_region" {
+    description = "AWS Region"
+    type = string
+}
+
+variable "bucket_name" {
+    description = "Name of the bucket"
+    type = string
 }
