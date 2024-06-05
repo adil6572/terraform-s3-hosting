@@ -32,7 +32,7 @@ To install and deploy the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/adil6572/terraform_s3_hosting
+   git clone https://github.com/adil6572/terraform-s3-hosting.git
 
    ```
 
